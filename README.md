@@ -1,1 +1,1 @@
-# PDS
+# python for data science (skill)
